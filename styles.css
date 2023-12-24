@@ -4,16 +4,18 @@
 	background-color:blue;
 	border:15px solid blue;
 	margin:20px;	
+	width:300px;
 }
 #box2{
     background-color:lightblue;
 	border:15px solid lightblue;
 	padding:50px;
 	margin:20px;
+	
 }
 #box3{
 	border:1px solid black;
-	width:300px;
+	width:100%;
 	padding:20px;
 	
 }
